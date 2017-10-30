@@ -1,0 +1,23 @@
+p1-pepe@hotmail.es-Australia
+p2-jjp@hotmail.es-Brazil
+p3-pepe@hotmail.es-Canada
+p4-jjp@hotmail.es-France
+p5-pepe@hotmail.es-Japan
+p6-jjp@hotmail.es-Spain
+*+*+*+*
+Fifa-Simulation-2015-MAC,PS4
+Nba-Simulation-2000-PC,PS4,XBOXONE
+NHL-Adventure-2005-MAC,PS4,Linux
+
+*+*+*+*
+Fifa-Tiros a puerta-p1=5,p2=1,p3=3,
+Fifa-Faltas-p1=4,p5=3,p3=7,
+
+*+*+*+*
+Nba-Faltas-p1=4,p5=3,p3=7,
+Nba-Faltas-p1=4,p5=3,p3=7,
+
+*+*+*+*
+NHL-Faltas-p1=4,p5=3,p3=7,
+NHL-Faltas-p1=4,p5=3,p3=7,
+NHL-Faltas-p1=4,p5=3,p3=7,

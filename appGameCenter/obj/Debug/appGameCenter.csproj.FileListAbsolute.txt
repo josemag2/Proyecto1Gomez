@@ -1,0 +1,14 @@
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csprojResolveAssemblyReference.cache
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csproj.CoreCompileInputs.cache
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe.config
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\bin\Debug\appGameCenter.pdb
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.exe
+D:\JoseManuelGomezRuiz\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.pdb
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe.config
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\bin\Debug\appGameCenter.pdb
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csprojResolveAssemblyReference.cache
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csproj.CoreCompileInputs.cache
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.exe
+G:\JoseManuelGomezRuizDV\Proyecto\appGameCenter\appGameCenter\obj\Debug\appGameCenter.pdb
